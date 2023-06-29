@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fee379d547e0a4a42acfce76325e13aa, type: 3}
+  m_Name: NormalEnemy
+  m_EditorClassIdentifier: 
+  tooFarDis: 60
+  tooFarTopSpeed: -12
+  safeDis: 25
+  safeTopSpeed: -5
+  warningDis: 10
+  warningTopSpeed: 5
+  unsafeDis: -5
+  unSafeTopSpeed: 8
+  behindTopSpeed: 15

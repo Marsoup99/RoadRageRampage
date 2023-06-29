@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 344c567cf59a19144a16b981510f4c70, type: 3}
+  m_Name: InGameData
+  m_EditorClassIdentifier: 
+  loadFromLastRun: 0
+  smallEnemyKills: 0
+  miniBoss: 0
+  bossKills: 0
+  currentLevel: 0
+  currentMap: 1
+  roadChoices: 020000000300000000000000040000000100000004000000
+  currentReward:
+  - {fileID: 11400000, guid: 1f29f6d93aafaf4429b30ab40a06de9a, type: 2}
+  - {fileID: 11400000, guid: 1f29f6d93aafaf4429b30ab40a06de9a, type: 2}
+  - {fileID: 11400000, guid: 9dcce3b2029588647a8d958cf736a776, type: 2}
+  currentShopItems:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  currentMoney: 0
+  currentHP: 700
+  currentArmor: 0
+  equippedWeapon: {fileID: 0}
+  weaponTier: 0
+  equippedFrontArmor: {fileID: 0}
+  frontArmorTier: 0
+  equippedSideArmor: {fileID: 0}
+  sideArmorTier: 0
+  equippedNitroEngine: {fileID: 0}
+  nitroEngineTier: 0
+  equippedRelics:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  relicTier: 00000000000000000000000000000000
+  itemIds: 0000000000000000000000000000000000000000000000000000000000000000
+  currentRewardIds: 000000000000000000000000
+  currentShopItemIds: 000000000000000000000000000000000000000000000000

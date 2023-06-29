@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b22a1f107b6c845b80370906d1b4bf, type: 3}
+  m_Name: Basic front armor
+  m_EditorClassIdentifier: 
+  itemID: 24562
+  itemName: Basic front armor
+  itemRarities: 0
+  itemImg: {fileID: 21300000, guid: df7dbac99fae5444f92b497c52f0ecfb, type: 3}
+  itemDescription: "-Increase collide damage by 25% \n-Increase max health by 100\n"
+  type: 400
+  itemPrefab: {fileID: 6684037504358515089, guid: 24c15855fa9dd2c4d9b51d3856e671a3, type: 3}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c806dde9d0682a24fb75b5fc1a0f8c64, type: 3}
+  m_Name: Map1
+  m_EditorClassIdentifier: 
+  MapIndex: 1
+  smallEnemies:
+  - {fileID: 813264445614957759, guid: 8d078ce26ebaaa94081bca4a384b3c2b, type: 3}
+  - {fileID: 813264445614957759, guid: 126a51a164f89aa40bf7d1adc207b278, type: 3}
+  - {fileID: 813264445614957759, guid: f65c6c7c7e6345f40ad108f46f660625, type: 3}
+  miniBoss: {fileID: 813264445614957759, guid: c66661123819ec14881547863a9175db, type: 3}
+  bigBoss: {fileID: 813264445614957759, guid: 9c15c425d8452cc4c98ec65b90438978, type: 3}
+  shopCar: {fileID: 7105499980915566081, guid: ba119299b1626c843b47df242128837c, type: 3}
+  levels:
+  - type: 1
+    enemyIndexList: 
+  - type: 0
+    enemyIndexList: 01000000010000000200000002000000
+  - type: 0
+    enemyIndexList: 020000000100000002000000020000000100000002000000
+  - type: 0
+    enemyIndexList: 010000000100000002000000010000000000000002000000
+  - type: 1
+    enemyIndexList: 
+  - type: 2
+    enemyIndexList: 00000000
+  - type: 0
+    enemyIndexList: 02000000000000000100000002000000000000000100000002000000
+  - type: 0
+    enemyIndexList: 00000000020000000100000000000000020000000100000000000000
+  - type: 1
+    enemyIndexList: 
+  - type: 0
+    enemyIndexList: 00000000020000000200000002000000000000000200000002000000
+  - type: 3
+    enemyIndexList: 000000000000000000000000

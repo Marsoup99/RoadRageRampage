@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7019de875708f914f813520e7039326d, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: 
+  frontArmorList:
+  - {fileID: 11400000, guid: 746fc17450c25454f8b48afcef3db861, type: 2}
+  - {fileID: 11400000, guid: 13927da58292fdd499e6ca866fb8061c, type: 2}
+  - {fileID: 11400000, guid: 9a7de5067eb3177429ad30495091505e, type: 2}
+  sideArmorList:
+  - {fileID: 11400000, guid: 0aaabb1498edc8b4480f8b7030c1f2d3, type: 2}
+  - {fileID: 11400000, guid: e5508a092b68d7e499332afcece09884, type: 2}
+  - {fileID: 11400000, guid: 111e24b5bb04e944a921bb22f0d94992, type: 2}
+  nitroEngineList:
+  - {fileID: 11400000, guid: 1f29f6d93aafaf4429b30ab40a06de9a, type: 2}
+  - {fileID: 11400000, guid: 6e0e90e73d7d64442bc288cc3a79a34b, type: 2}
+  relicList:
+  - {fileID: 11400000, guid: 2300be4eb86450e48b91ccf3aa9853c5, type: 2}
+  - {fileID: 11400000, guid: 0803dbd9d3e2f3c4c851ed580c2f1281, type: 2}
+  - {fileID: 11400000, guid: 3d752ef5c250ace4f895a7737643f0aa, type: 2}
+  - {fileID: 11400000, guid: 079925219e8b3544eb2c27d10605cb8b, type: 2}
+  - {fileID: 11400000, guid: 2a3cd2f50574bc547bd51c566944957c, type: 2}
+  - {fileID: 11400000, guid: 59a8819018e06dd45a0ed508cdf16881, type: 2}
+  weaponList:
+  - {fileID: 11400000, guid: 9e2549157e384144c92e0ec4635d3b61, type: 2}
+  - {fileID: 11400000, guid: d0141def96ea7c143b0cfd38d36066ce, type: 2}
+  - {fileID: 11400000, guid: 47ea721f2bfd09f488e72daaabada023, type: 2}
+  - {fileID: 11400000, guid: dc9a16ba38ac7634cb316ecd6de3a6cc, type: 2}
+  - {fileID: 11400000, guid: a98e443baf295aa4383aed2672f8d33d, type: 2}
+  - {fileID: 11400000, guid: 1afb5eaef2e452d459f8768a6a8d2836, type: 2}
+  - {fileID: 11400000, guid: 9dcce3b2029588647a8d958cf736a776, type: 2}
+  - {fileID: 11400000, guid: b6f7513e7db34964a98dd76a97db064b, type: 2}
+  allItems:
+  - {fileID: 11400000, guid: 746fc17450c25454f8b48afcef3db861, type: 2}
+  - {fileID: 11400000, guid: 13927da58292fdd499e6ca866fb8061c, type: 2}
+  - {fileID: 11400000, guid: 9a7de5067eb3177429ad30495091505e, type: 2}
+  - {fileID: 11400000, guid: 0aaabb1498edc8b4480f8b7030c1f2d3, type: 2}
+  - {fileID: 11400000, guid: e5508a092b68d7e499332afcece09884, type: 2}
+  - {fileID: 11400000, guid: 111e24b5bb04e944a921bb22f0d94992, type: 2}
+  - {fileID: 11400000, guid: 1f29f6d93aafaf4429b30ab40a06de9a, type: 2}
+  - {fileID: 11400000, guid: 6e0e90e73d7d64442bc288cc3a79a34b, type: 2}
+  - {fileID: 11400000, guid: 2300be4eb86450e48b91ccf3aa9853c5, type: 2}
+  - {fileID: 11400000, guid: 0803dbd9d3e2f3c4c851ed580c2f1281, type: 2}
+  - {fileID: 11400000, guid: 3d752ef5c250ace4f895a7737643f0aa, type: 2}
+  - {fileID: 11400000, guid: 079925219e8b3544eb2c27d10605cb8b, type: 2}
+  - {fileID: 11400000, guid: 2a3cd2f50574bc547bd51c566944957c, type: 2}
+  - {fileID: 11400000, guid: 59a8819018e06dd45a0ed508cdf16881, type: 2}
+  - {fileID: 11400000, guid: 9e2549157e384144c92e0ec4635d3b61, type: 2}
+  - {fileID: 11400000, guid: d0141def96ea7c143b0cfd38d36066ce, type: 2}
+  - {fileID: 11400000, guid: 47ea721f2bfd09f488e72daaabada023, type: 2}
+  - {fileID: 11400000, guid: dc9a16ba38ac7634cb316ecd6de3a6cc, type: 2}
+  - {fileID: 11400000, guid: a98e443baf295aa4383aed2672f8d33d, type: 2}
+  - {fileID: 11400000, guid: 1afb5eaef2e452d459f8768a6a8d2836, type: 2}
+  - {fileID: 11400000, guid: 9dcce3b2029588647a8d958cf736a776, type: 2}
+  - {fileID: 11400000, guid: b6f7513e7db34964a98dd76a97db064b, type: 2}
+  nitroInvinciblePrefab: {fileID: 66809096182209098, guid: 2c049439fae0c0241bc6aff72e00f467, type: 3}

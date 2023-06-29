@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b22a1f107b6c845b80370906d1b4bf, type: 3}
+  m_Name: IcyPyke
+  m_EditorClassIdentifier: 
+  itemID: 24564
+  itemName: Icy Pyke
+  itemRarities: 2
+  itemImg: {fileID: 21300000, guid: ec03f79379868c642b48ae5ddc821b6d, type: 3}
+  itemDescription: "-Increase collide damage by 20% \n-Increase max health by 100\n-Increase
+    collide damage against 30%\n"
+  type: 400
+  itemPrefab: {fileID: 6684037504358515089, guid: 7cf52cdced71c5a4c947bcc5acd1708e, type: 3}
