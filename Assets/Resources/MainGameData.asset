@@ -12,17 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14da7cb6ec012a344bb54e4ba4e70668, type: 3}
   m_Name: MainGameData
   m_EditorClassIdentifier: 
-  didPlayTutorial: 0
-  money: 4799
+  didPlayTutorial: 1
+  money: 0
   prices: 64000000f4010000e8030000d00700009f860100
-  healthText: Increase health by 200 points.
+  healthText: Increase health by 0 points.
   hpValue: 00000000320000006400000096000000c8000000
-  hpProcess: 4
+  hpProcess: 0
   nitroText: Increase nitro power by 0%
   nitroValue: 00000000050000000a000000140000001e000000
   nitroProcess: 0
-  collideText: Increase collide damage by 15%
+  collideText: Increase collide damage by 0%
   collideValue: 00000000050000000a0000000f00000019000000
-  collideProcess: 3
+  collideProcess: 0
   nitroInvincibleText: Take no damage at the begin of nitro boost
   nitroInvincibleProcess: 0
