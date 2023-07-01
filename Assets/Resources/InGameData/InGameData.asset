@@ -18,20 +18,20 @@ MonoBehaviour:
   bossKills: 0
   currentLevel: 0
   currentMap: 1
-  roadChoices: 020000000300000000000000040000000100000004000000
+  roadChoices: 000000000100000002000000040000000400000003000000
   currentReward:
   - {fileID: 11400000, guid: 1f29f6d93aafaf4429b30ab40a06de9a, type: 2}
   - {fileID: 11400000, guid: 1f29f6d93aafaf4429b30ab40a06de9a, type: 2}
   - {fileID: 11400000, guid: 9dcce3b2029588647a8d958cf736a776, type: 2}
   currentShopItems:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 9e2549157e384144c92e0ec4635d3b61, type: 2}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   currentMoney: 0
-  currentHP: 700
+  currentHP: 500
   currentArmor: 0
   equippedWeapon: {fileID: 0}
   weaponTier: 0
